@@ -1,0 +1,24 @@
+{
+  "name": "extra_work",
+  "version": "1.0.0",
+  "description": "side Project Warhammer RPG Game",
+  "main": "wh_character.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominicAbogado/WH_Game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DominicAbogado/WH_Game/issues"
+  },
+  "homepage": "https://github.com/DominicAbogado/WH_Game#readme"
+}
